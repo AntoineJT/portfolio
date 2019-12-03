@@ -53,4 +53,4 @@ ___
 * **Date de première publication :** 1 Novembre 2018
 * **Dernière mise à jour :** 2 Novembre 2018
 
-**Description :** Un logiciel de chiffrement et déchiffrement de fichiers basé sur mes propres algorithmes de chiffrement, extrêmement rapide et sans failles connues. Il supporte également l'utilisation d'arguments lors du lancement.
+**Description :** Un logiciel de chiffrement et déchiffrement de fichiers basé sur mes propres algorithmes de chiffrement (sorte de chiffre de césar), extrêmement rapide. Il supporte également l'utilisation d'arguments lors du lancement.
