@@ -2,6 +2,6 @@
 title: 'Curriculum Vitæ'
 slug: cv
 menu: 'Mon CV'
+routable: false
+redirect: 'https://antoinejt.github.io/online-cv'
 ---
-
-<center><iframe style="width:50vw;height:75vh;" title="Mon CV" src="./cv/antoine.pdf"></iframe></center>
