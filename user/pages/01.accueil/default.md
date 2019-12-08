@@ -1,7 +1,11 @@
 ---
 title: Accueil
-slug: accueil
 menu: Accueil
+slug: accueil
+routes:
+    default: /
+    aliases:
+        - /
 ---
 
 ## <center>Qu'est ce que ce site ?</center>
