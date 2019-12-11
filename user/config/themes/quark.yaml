@@ -1,0 +1,18 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+custom_logo:
+  user/themes/quark/images/logo/portfolio_logo.png:
+    name: portfolio_logo.png
+    type: image/png
+    size: 41648
+    path: user/themes/quark/images/logo/portfolio_logo.png
