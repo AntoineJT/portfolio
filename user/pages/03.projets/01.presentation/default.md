@@ -1,7 +1,7 @@
 ---
-title: 'Présentation Projets'
-menu: Présentation
-slug: presentation
+title: 'Projets personnels'
+menu: Personnels
+slug: personnel
 ---
 
 # Just another Stack Calculator
