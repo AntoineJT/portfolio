@@ -1,5 +1,5 @@
 ---
 title: PPE
-menu: PPE
+menu: '👥 PPE'
 ---
 

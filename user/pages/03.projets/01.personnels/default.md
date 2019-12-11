@@ -1,7 +1,7 @@
 ---
 title: 'Projets personnels'
-menu: Personnels
-slug: personnel
+menu: '👤 Personnels'
+slug: personnels
 ---
 
 # Just another Stack Calculator
