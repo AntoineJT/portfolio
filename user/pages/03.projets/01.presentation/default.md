@@ -32,7 +32,7 @@ ___
 
 # ASCII Tic Tac Toe
 ___
-**Note :** _Il s'agit d'un vieux projet et le code est largement améliorable_
+**Note :** _Il s'agit d'un vieux projet et le code est largement améliorable_   
 * **Langage :** C
 * **Plateformes supportées :**
 <ul>

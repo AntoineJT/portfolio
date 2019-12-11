@@ -1,5 +1,6 @@
 ---
 title: 'Veille technologique'
+menu: '💻 Veille technologique'
 ---
 
 # <center>Veille technologique</center>

@@ -1,15 +1,18 @@
 ---
 title: Accueil
-menu: Accueil
+menu: '🏠 Accueil'
 slug: accueil
 routes:
     default: /
     aliases:
         - /
 ---
+
+# <center>Portfolio</center>
+
 ## <center>Qui suis-je ?</center>
-___
-<center>Je suis Antoine James Tournepiche, un étudiant en informatique en 1ère année de <a href="https://www.lyceecharlesdefoucauldsup.fr/">BTS SIO au Lycée Charles de Foucauld</a>.</center>
+---
+<center>Je suis un étudiant, actuellement en 2ème année de <a href="https://www.lyceecharlesdefoucauldsup.fr/">BTS SIO au Lycée Charles de Foucauld</a>.</center>
 
 ## <center>Quel est l'intérêt d'un portfolio ?</center>
 ___
@@ -22,3 +25,8 @@ Ce site contient différentes informations, telles que :
 * Une présentation plus étayée
 * Une présentation de certains projets que j'ai publié sur GitHub
 * Le lien de mon GitHub
+
+## <center>Parcours Professionnel</center>
+___
+* **2018 - 2020 :** (En cours) Formation au [Lycée Charles de Foucauld en BTS SIO](https://www.lyceecharlesdefoucauldsup.fr/).
+* **2017 - 2018 :** Obtention du Baccalauréat Scientifique spécialité Physique/Chimie au [Lycée Charles de Foucauld](http://www.lamadone.fr/lycee-charles-de-foucauld/).
