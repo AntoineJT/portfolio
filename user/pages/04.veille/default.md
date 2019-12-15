@@ -3,7 +3,7 @@ title: 'Veille technologique'
 menu: '💻 Veille technologique'
 ---
 
-# <center>Veille technologique</center>
+# <center>💻 Veille technologique 💻</center>
 ## <center>Sujet : Les failles zero-day</center>
 ---
 
