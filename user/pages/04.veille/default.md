@@ -29,7 +29,7 @@ Afin de me tenir informé d'un tel sujet, j’ai utilisé un agrégateur de flux
 ### <center>Développement</center>
 <br>
 Les découvertes de telles failles sont de plus un bon moyen de gagner de l’argent : il y a même des entreprises spécialisées dans la découverte puis revente de failles zero-day aux plus offrants.
-<br>C’est à cause de ce phénomène que les bug bounties (bug bounty = récompense offerte à ceux qui reportent des failles critiques au principal intéressé, par le principal intéressé, à savoir le site ou éditeur de logiciel).
+<br>C’est à cause de ce phénomène que les bug bounties (bug bounty = récompense offerte par le principal intéressé, à ceux qui lui reportent des failles critiques (principalement), à savoir le site ou éditeur de logiciel).
 
 ---
 #### <u>Connexion VPN sur OS de type UNIX (CVE-2019-14899)</u>
