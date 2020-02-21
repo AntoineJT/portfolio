@@ -1,3 +1,34 @@
+# v1.6.21
+## 02/11/2020
+
+1. [](#new)
+    * Added `ConsoleCommand::setLanguage()` method to set language to be used from CLI
+    * Added `ConsoleCommand::initializeGrav()` method to properly set up Grav instance to be used from CLI
+    * Added `ConsoleCommand::initializePlugins()`method to properly set up all plugins to be used from CLI
+    * Added `ConsoleCommand::initializeThemes()`method to properly set up current theme to be used from CLI
+    * Added `ConsoleCommand::initializePages()` method to properly set up pages to be used from CLI
+1. [](#improved)
+    * Vendor updates
+1. [](#bugfix)
+    * Fixed `bin/plugin` CLI calling `$themes->init()` way too early (removed it, use above methods instead)
+    * Fixed call to `$grav['page']` crashing CLI
+    * Fixed encoding problems when PHP INI setting `default_charset` is not `utf-8` [#2154](https://github.com/getgrav/grav/issues/2154)
+
+# v1.6.20
+## 02/03/2020
+
+1. [](#bugfix)
+    * Fixed incorrect routing caused by `str_replace()` in `Uri::init()` [#2754](https://github.com/getgrav/grav/issues/2754)
+    * Fixed session cookie is being set twice in the HTTP header [#2745](https://github.com/getgrav/grav/issues/2745)
+    * Fixed session not restarting if user was invalid (downgrading from Grav 1.7)
+    * Fixed filesystem iterator calls with non-existing folders
+    * Fixed `checkbox` field not being saved, requires also Form v4.0.2 [#1225](https://github.com/getgrav/grav/issues/1225)
+    * Fixed `validation: strict` not working in blueprints [#1273](https://github.com/getgrav/grav/issues/1273)
+    * Fixed `Data::filter()` removing empty fields (such as empty list) by default [#2805](https://github.com/getgrav/grav/issues/2805)
+    * Fixed fatal error with non-integer page param value [#2803](https://github.com/getgrav/grav/issues/2803)
+    * Fixed `Assets::addInlineJs()` parameter type mismatch between v1.5 and v1.6 [#2659](https://github.com/getgrav/grav/issues/2659)
+    * Fixed `site.metadata` saving issues [#2615](https://github.com/getgrav/grav/issues/2615)
+
 # v1.6.19
 ## 12/04/2019
 
@@ -6,7 +37,7 @@
 1. [](#bugfix)
     * Fixed fatal error when calling `{{ grav.undefined }}`
     * Fixed multiple issues when there are no pages in the site
-    *  PHP 7.4 fix for [#2750](https://github.com/getgrav/grav/issues/2750)
+    * PHP 7.4 fix for [#2750](https://github.com/getgrav/grav/issues/2750)
 
 # v1.6.18
 ## 12/02/2019
