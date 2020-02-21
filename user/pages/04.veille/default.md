@@ -57,10 +57,11 @@ Un peu plus vieux : la faille CVE-2019-13052, découverte en Juillet 2019.
 ---
 #### <u>ZombieLoad V2 - Le retour du spectre de Meltdown (CVE-2019-11135)</u>
 
-Enfin, parlons d’une faille majeure, puisqu’elle touche au processeur, donc au cœur même de l’ordinateur : la faille Zombieload V2. 
+Parlons maintenant d’une faille majeure, puisqu’elle touche au processeur, donc au cœur même de l’ordinateur : la faille Zombieload V2. 
 <br>Son nom officiel est CVE-2019-11135 : elle affecte tous les CPU Intel sortis depuis 2013.
 <br>Il s’agit de la « suite » d’une faille apparue à la même période, et étant du même genre que Meltdown, Spectre et Foreshadow, et jugées la plus dangereuse des quatre puisque permettant de récupérer le plus d’informations.
-<br>Parmi ces failles, il y a : CVE-2018-12126 (Fallout), CVE-2018-12127, CVE-2018-12130 (ZombieLoad, ou RIDL) et CVE-2019-11091.
+<br>Ces failles sont regroupées sous le nom MDS (Microarchitectural Data Sampling).
+<br>Parmi ces failles, il y a : CVE-2018-12126 (Fallout), CVE-2018-12127 (RIDL), CVE-2018-12130 (RIDL, ZombieLoad) et CVE-2019-11091 (RIDL).
 <br>Ces failles tirent parti de techniques d’optimisation mises en place par Intel. 
 <br>Ainsi, le correctif de sécurité a fait diminuer les performances des processeurs de quelque chose de l’ordre de 20 à 30% à l’époque.
 <br>En ce qui concerne le dérivé le plus récent, ZombieLoad V2, il se base sur encore d’autres techniques d’optimisation mises en place par Intel : TSX, pour Intel Transactional Synchronization Extensions. 
@@ -71,8 +72,18 @@ Enfin, parlons d’une faille majeure, puisqu’elle touche au processeur, donc 
 
 <u>Sources :</u>
 * [Article ZdNet](https://www.zdnet.com/article/intels-cascade-lake-cpus-impacted-by-new-zombieload-v2-attack/)
+* [Article Wired](https://www.wired.com/story/critical-intel-flaw-breaks-basic-security-for-most-computers/)
 * [Page Wikipédia - Transactional Synchronization Extensions](https://en.wikipedia.org/wiki/Transactional_Synchronization_Extensions)
-* [Article de Wired](https://www.wired.com/story/critical-intel-flaw-breaks-basic-security-for-most-computers/)
+* [Page Wikipédia - Microarchitectural Data Sampling](https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling)
+
+---
+#### <u>Plundervolt - Une faille basée sur l'undervolting (CVE-2019-11157)</u>
+
+
+
+<u>Sources :</u>
+* [Article Developpez](https://securite.developpez.com/actu/287429/Les-CPU-Intel-depuis-Skylake-sont-touches-par-Plundervolt-une-faille-ciblant-les-mecanismes-de-l-overclocking-Intel-recommande-de-ne-pas-toucher-aux-valeurs-par-defaut-du-voltage-CPU-dans-le-BIOS/)
+* [Chaîne YouTube - Plunder Volt](https://www.youtube.com/channel/UCKKVpgstdP9yz9uVm9m9prA)
 
 ---
 ### <center>Conclusion</center>
