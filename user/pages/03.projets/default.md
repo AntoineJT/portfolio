@@ -1,7 +1,7 @@
 ---
 title: Projets
 menu: '📐 Projets'
-redirect: ./projets/presentation
-routable: false
+redirect: 'https://github.com/AntoineJT/'
+visible: true
 ---
 
