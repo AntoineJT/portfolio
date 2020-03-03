@@ -85,6 +85,13 @@ Parlons maintenant d’une faille majeure, puisqu’elle touche au processeur, d
 * [Article Developpez](https://securite.developpez.com/actu/287429/Les-CPU-Intel-depuis-Skylake-sont-touches-par-Plundervolt-une-faille-ciblant-les-mecanismes-de-l-overclocking-Intel-recommande-de-ne-pas-toucher-aux-valeurs-par-defaut-du-voltage-CPU-dans-le-BIOS/)
 * [Chaîne YouTube - Plunder Volt](https://www.youtube.com/channel/UCKKVpgstdP9yz9uVm9m9prA)
 
+#### <u>Kr00k - Faille de puces chargées du chiffrement WiFi WPA2 (CVE-2019-15126)</u>
+
+
+<u>Sources :</u>
+* [Article 20minutes](https://www.20minutes.fr/high-tech/2728343-20200227-une-importante-faille-de-securite-touche-pres-d-un-milliard-de-smartphones)
+* [Article PaperGeek](https://www.papergeek.fr/wifi-faille-securite-touche-1-milliard-appareils-iphone-smartphones-android-1348531)
+
 ---
 ### <center>Conclusion</center>
 <br>
