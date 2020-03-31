@@ -5,7 +5,6 @@ menu: '👥 PPE'
 
 # Parking
 ___
-**Note :** _Ce projet est basé sur un ancien projet, à la base n'utilisant aucun framework_
 * **Langage :** PHP
 * **Framework :** Laravel 6
 * **Type d'application :** Application web
@@ -16,8 +15,9 @@ ___
 
 # Festival
 ___
+**Note :** _Ce projet est basé sur un ancien projet, à la base n'utilisant aucun framework_
 * **Langage :** PHP
-* **Framework :** Laravel 6 (sur la branche [laravel](https://github.com/AntoineJT/ppe-festival/commits/laravel))
+* **Framework :** Laravel 6 (sur la branche [laravel](https://github.com/AntoineJT/ppe-festival/tree/laravel))
 * **Type d'application :** Application web
 * **Lien GitHub :** [festival](https://github.com/AntoineJT/ppe-festival/)
 * **Date de création du projet :** 9 Septembre 2019

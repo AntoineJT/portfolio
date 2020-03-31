@@ -11,7 +11,7 @@ ___
 * **Plateformes supportées :** Plateformes disposant d'une machine virtuelle Java (JVM)
 * **Type d'application :** Console (CLI)
 * **Support des arguments :** Non
-* **Lien GitHub :** [jasc](https://github.com/AntoineJT/)
+* **Lien GitHub :** [jasc](https://github.com/AntoineJT/jasc)
 * **Date de création du projet :** _avant le 9 Avril 2019_
 * **Date de première version :** 9 Avril 2019
 * **Date de première publication :** 18 Juillet 2019 ([Release](https://github.com/AntoineJT/jasc/releases/tag/v0.3.5))
@@ -34,20 +34,6 @@ ___
 * **Date de première publication :** 3 Novembre 2018
 
 **Description :** Un simple morpion jouable dans la console/terminal.
-
-# Raw Floppy Image Creator
-___
-**Note :** _Il s'agit d'un vieux projet dont le code est horrible_
-* **Langage :** Java
-* **Plateformes supportées :** Plateformes disposant d'une machine virtuelle Java (JVM)
-* **Type d'application :** Graphique
-* **Support des arguments :** Non
-* **Lien GitHub :** [rfic](https://github.com/AntoineJT/rfic)
-* **Date de création du projet :** _avant le 13 Avril 2018_
-* **Date de première version :** _jour de création du projet_
-* **Date de première publication :** 13 Avril 2018
-
-**Description :** Un logiciel permettant de créer une image de disquette vide et non formatée, bootable à partir d'un secteur de boot.
 
 # AntoineJT's Encryption Algorithm
 ___

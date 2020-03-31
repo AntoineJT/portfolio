@@ -22,9 +22,9 @@ ___
 ___
 Ce site contient différentes informations, telles que : 
 * Mon CV
-* Une présentation plus étayée
-* Une présentation de certains projets que j'ai publié sur GitHub
-* Le lien de mon GitHub
+* Une présentation de mes projets réalisés en PPE
+* Une présentation de projets réalisés en stage
+* Une présentation de projets personnels
 
 ## <center>Parcours Professionnel</center>
 ___
