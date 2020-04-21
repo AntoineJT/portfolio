@@ -4,7 +4,9 @@
 - [X] Modifier ligne sous parking et la mettre sous festival
 - [X] Enlever RFIC
 - [X] Enlever "Mon GitHub" de la liste Projets
-- [ ] Ajouter boutique-si6 à la liste des projets PPE
+- [X] Ajouter boutique-si6 à la liste des projets PPE
+- [X] Réorganiser les projets PPE
+- [X] Enlever les dates de première version, etc. des projets PPE
 - [ ] Ajouter homemade portfolio à la liste des projets persos
 - [ ] Ajouter projets STAGES
 - [ ] Ajouter OCS/GLPi
